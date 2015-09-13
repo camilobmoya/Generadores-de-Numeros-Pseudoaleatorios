@@ -1,3 +1,4 @@
-# Generadores-de-Numeros-Pseudoaleatorios
-Repositorio para la generación de Números Pseudoaleatorios.
+# SIMULACION_camilobmoya
+Repositorio para la materia de SIMULACIÓN.
+2015 Semestre II
 Codificado en Python 2.7
