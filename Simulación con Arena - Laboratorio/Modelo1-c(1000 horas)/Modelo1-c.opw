@@ -1,0 +1,7 @@
+[RESOURCES]
+Servidor
+[VARIABLES]
+Banco.NumberOut
+Llegada de clientes.NumberOut
+Banco.NumberIn
+Salida.NumberOut

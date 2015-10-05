@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                                      PCE21 - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 9/22/2015
+Analyst: PCE21                                                       Model revision date: 9/22/2015
+
+Replication ended at time      : 60000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             3.0101     .04405     4.6443E-05 28.554      14777    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000      14777    
+Entity 1.WaitTime                           9.2843     1.8208     .00000     121.80      14777    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000      14777    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000      14777    
+Entity 1.TotalTime                          12.294     1.8375     2.8203E-04 124.02      14777    
+Banco.Queue.WaitingTime                     9.2843     1.8208     .00000     121.80      14777    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                3.0279     .49477     .00000     37.000     .00000    
+Servidor.NumberBusy                         .74136     .02397     .00000     1.0000     .00000    
+Servidor.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Servidor.Utilization                        .74136     .02397     .00000     1.0000     .00000    
+Banco.Queue.NumberInQueue                   2.2865     .47720     .00000     36.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           14777.    
+Entity 1.NumberOut                          14777.    
+Servidor.NumberSeized                       14777.    
+Servidor.ScheduledUtilization               .74136    
+System.NumberOut                            14777.    
+
+
+Simulation run time: 3.65 minutes.
+Simulation run complete.
